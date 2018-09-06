@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1308738656",
     "id" : "488F32BC",
-    "lastKnownWriteTime" : 1535740528,
-    "last_content_update" : 1535740528,
+    "lastKnownWriteTime" : 1536255037,
+    "last_content_update" : 1536255037950,
     "path" : "~/Desktop/GitHub/df.github.io/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "39,0",
-        "scrollLine" : "39"
+        "cursorPosition" : "21,67",
+        "scrollLine" : "18"
     },
     "relative_order" : 1,
     "source_on_save" : false,
