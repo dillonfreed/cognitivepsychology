@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 output:
-  html_document:
+html_document:
     toc: true
     toc_float: true
     collapsed: false
@@ -15,7 +15,6 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
 # What I Do
-*Writer
-*Novelist 
+*Writer and entrepreneur
 
 
