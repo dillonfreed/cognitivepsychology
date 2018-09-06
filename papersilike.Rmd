@@ -10,13 +10,9 @@ output:
     #code_folding: hide
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
-```
-
 # Baseline Pupil Size and Intelligence 
 2018 | 7 | 23 Last compiled: `r Sys.Date()`
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/27821254">Click here for the paper</a>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/27821254">Click here for the paper target="blank"</a>
 
 <a href = "https://dillonfreed.github.io/df.github.io/index.html">
 ![](images/pupil.png)
