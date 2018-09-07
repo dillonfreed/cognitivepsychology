@@ -7,7 +7,6 @@ Last compiled: `r Sys.Date()`
 ##Baseline Pupil Size and Intelligence 
 [Click here!](https://www.ncbi.nlm.nih.gov/pubmed/27821254)
 
- <a href = "https://dillonfreed.github.io/df.github.io/index.html">
 ![](images/pupil.png)
 
 

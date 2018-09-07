@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3180985319",
+    "hash" : "0",
     "id" : "3AA16B6E",
-    "lastKnownWriteTime" : 1536332150,
-    "last_content_update" : 1536332150733,
+    "lastKnownWriteTime" : 1536332244,
+    "last_content_update" : 1536332244662,
     "path" : "~/Desktop/GitHub/df.github.io/papersilike.Rmd",
     "project_path" : "papersilike.Rmd",
     "properties" : {
-        "cursorPosition" : "5,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "18,0",
+        "scrollLine" : "1"
     },
     "relative_order" : 2,
     "source_on_save" : false,
