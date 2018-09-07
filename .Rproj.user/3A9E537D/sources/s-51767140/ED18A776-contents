@@ -1,6 +1,6 @@
 name: "MyLabJournal"
 navbar:
-  title: "MyLabJournal"
+  title: "Freed Lab Journal"
   left:
     - text: "Home"
       href: index.html
@@ -12,4 +12,6 @@ navbar:
       href: aboutme.html
     - text: "Links"
       href: links.html
+    - text: "Summaries of Readings"
+      href: notes.html
 output_dir: "docs"

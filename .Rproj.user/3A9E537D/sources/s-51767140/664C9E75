@@ -5,15 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "313015065",
     "id" : "664C9E75",
-    "lastKnownWriteTime" : 1535740528,
-    "last_content_update" : 1535740528,
+    "lastKnownWriteTime" : 1536331438,
+    "last_content_update" : 1536331438975,
     "path" : "~/Desktop/GitHub/df.github.io/Journal.Rmd",
     "project_path" : "Journal.Rmd",
     "properties" : {
-        "cursorPosition" : "16,10",
-        "scrollLine" : "11"
+        "cursorPosition" : "122,6",
+        "last_setup_crc32" : "51767140d70cb7b9",
+        "scrollLine" : "113"
     },
     "relative_order" : 6,
     "source_on_save" : false,

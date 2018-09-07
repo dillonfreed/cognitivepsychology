@@ -1,0 +1,3 @@
+"0","knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)"
+"2","Error: Incomplete expression: knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+"
