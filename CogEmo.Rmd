@@ -1,0 +1,19 @@
+---
+title: "Assignment Example"
+output: html_document
+bibliography: "refs.bib"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# The Relationship of Emotion to Cognition: A Functional Approach to a Semantic Controversy. Leventhal, H. & Scherer, K. 
+
+@leventhal1987relationship is a graet paper. 
+
+# Newer Paper
+
+# References
+
+

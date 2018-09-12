@@ -12,6 +12,6 @@ navbar:
       href: aboutme.html
     - text: "Links"
       href: links.html
-    - text: "Summaries of Readings"
-      href: notes.html
+    - text: "Cognition and Emotion"
+      href: CogEmo.html
 output_dir: "docs"
